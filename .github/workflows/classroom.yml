@@ -1,4 +1,4 @@
-name: Autograding Tests
+name: TLAST
 on:
   workflow_dispatch: {}
   repository_dispatch: {}

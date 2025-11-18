@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="coba"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-18 09:15:52 PM"/>
+        <attribute name="created" value="VXNlcjtMQVBUT1AtUEZLSTVTR0k7MjAyNS0xMS0xODswODoyNzo1NSBQTTsyNzkz"/>
+        <attribute name="edited" value="VXNlcjtMQVBUT1AtUEZLSTVTR0k7MjAyNS0xMS0xODswOToxNTo1MiBQTTszOzI4OTg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Max, jlhdata" type="Integer" array="False" size=""/>
+            <assign variable="Max" expression="10"/>
+            <assign variable="jlhdata" expression="0"/>
+            <declare name="" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
